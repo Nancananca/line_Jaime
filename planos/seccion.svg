@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.275 5.25" width="781" height="252" font-family="Manrope, 'Segoe UI', Arial, sans-serif">
+<rect width="16.275" height="5.25" fill="#fff"/>
+<rect x="0" y="3.95" width="16.275" height="1.3" fill="#ecebe4"/>
+<rect x="1.2" y="3.95" width="3.375" height="0.26" fill="#12130f"/>
+<rect x="1.1" y="0.83" width="3.575" height="0.38" fill="#12130f"/>
+<rect x="1.2" y="1.21" width="3.375" height="2.74" fill="#EADFCB" fill-opacity=".45"/>
+<path d="M1.2 3.95V0.95M4.575 3.95V0.95" stroke="#12130f" stroke-width=".12"/>
+<text x="2.888" y="2.65" text-anchor="middle" font-size="0.25" font-weight="700" fill="#12130f">COMEDOR</text>
+<rect x="4.575" y="3.95" width="3.375" height="0.26" fill="#12130f"/>
+<rect x="4.475" y="0.83" width="3.575" height="0.38" fill="#12130f"/>
+<rect x="4.575" y="1.21" width="3.375" height="2.74" fill="#E9DCC3" fill-opacity=".45"/>
+<path d="M4.575 3.95V0.95M7.95 3.95V0.95" stroke="#12130f" stroke-width=".12"/>
+<text x="6.263" y="2.65" text-anchor="middle" font-size="0.25" font-weight="700" fill="#12130f">SALÓN · COMEDOR</text>
+<rect x="7.95" y="3.95" width="4.125" height="0.26" fill="#12130f"/>
+<rect x="7.95" y="2.9" width=".04" height="1.05" fill="#8d8c84"/><rect x="12.035" y="2.9" width=".04" height="1.05" fill="#8d8c84"/>
+<text x="10.013" y="2.65" text-anchor="middle" font-size="0.25" font-weight="700" fill="#12130f">TERRAZA DE PIEDRA</text>
+<rect x="12.075" y="3.95" width="3" height="0.26" fill="#12130f"/>
+<rect x="12.075" y="2.9" width=".04" height="1.05" fill="#8d8c84"/><rect x="15.035" y="2.9" width=".04" height="1.05" fill="#8d8c84"/>
+<text x="13.575" y="2.65" text-anchor="middle" font-size="0.25" font-weight="700" fill="#12130f">PISCINA</text>
+<path d="M0 3.95H16.275" stroke="#12130f" stroke-width=".05"/>
+<g font-size=".22" fill="#657351" stroke="#657351" stroke-width=".02">
+<path d="M.15 3.95h.45"/><text stroke="none" x=".15" y="3.87">+0,00</text>
+<path d="M.15 0.95h.45"/><text stroke="none" x=".15" y="0.87">+3,00</text>
+</g><text x="16.075" y="5" text-anchor="end" font-size=".2" fill="#77776f">Altura libre orientativa ≈ 2,66 m · planta 3,00 m a ejes</text></svg>

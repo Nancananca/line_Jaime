@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.15 5.08" width="1159" height="244" font-family="Manrope, 'Segoe UI', Arial, sans-serif">
+<rect width="24.15" height="5.08" fill="#fff"/>
+<rect x="19.2" y="0.5" width="3.75" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M19.16 0.5h3.83" stroke="#12130f" stroke-width=".09"/>
+<rect x="20.325" y="1.73" width="1.5" height="1.35" fill="#cfdfe6" stroke="#12130f" stroke-width=".04"/>
+<path d="M20.55 2.743L20.925 2" stroke="#fff" stroke-width=".03"/>
+<rect x="16.95" y="0.5" width="2.25" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M16.91 0.5h2.33" stroke="#12130f" stroke-width=".09"/>
+<rect x="17.7" y="1.73" width="0.75" height="0.6" fill="#cfdfe6" stroke="#12130f" stroke-width=".04"/>
+<path d="M17.813 2.18L18 1.85" stroke="#fff" stroke-width=".03"/>
+<rect x="14.325" y="0.5" width="2.625" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M14.285 0.5h2.705" stroke="#12130f" stroke-width=".09"/>
+<rect x="14.887" y="1.73" width="1.5" height="1.35" fill="#cfdfe6" stroke="#12130f" stroke-width=".04"/>
+<path d="M15.112 2.743L15.487 2" stroke="#fff" stroke-width=".03"/>
+<rect x="10.95" y="0.5" width="3.375" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M10.91 0.5h3.455" stroke="#12130f" stroke-width=".09"/>
+<rect x="11.887" y="1.73" width="1.5" height="1.35" fill="#cfdfe6" stroke="#12130f" stroke-width=".04"/>
+<path d="M12.112 2.743L12.487 2" stroke="#fff" stroke-width=".03"/>
+<rect x="4.575" y="0.5" width="2.25" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M4.535 0.5h2.33" stroke="#12130f" stroke-width=".09"/>
+<rect x="1.2" y="0.5" width="3.375" height="3.48" fill="rgb(250,250,246)" stroke="#12130f" stroke-width=".035"/>
+<path d="M1.16 0.5h3.455" stroke="#12130f" stroke-width=".09"/>
+<rect x="2.137" y="1.73" width="1.5" height="1.35" fill="#cfdfe6" stroke="#12130f" stroke-width=".04"/>
+<path d="M2.362 2.743L2.737 2" stroke="#fff" stroke-width=".03"/>
+<rect x="6.825" y="0.93" width="4.125" height=".26" fill="#f1f0ea" stroke="#12130f" stroke-width=".035"/>
+<rect x="6.875" y="1.19" width=".14" height="2.79" fill="#8a6238" stroke="#12130f" stroke-width=".02"/>
+<rect x="10.76" y="1.19" width=".14" height="2.79" fill="#8a6238" stroke="#12130f" stroke-width=".02"/>
+<path d="M0 3.98H24.15" stroke="#12130f" stroke-width=".07"/><rect x="0" y="3.98" width="24.15" height=".5" fill="#ecebe4"/>
+<g font-size=".22" fill="#657351" stroke="#657351" stroke-width=".02">
+<path d="M23.2 3.98h.5" /><text stroke="none" x="23.73" y="4.06">+0,00</text>
+<path d="M23.2 0.98h.5" /><text stroke="none" x="23.73" y="1.06">+3,00</text>
+</g>
+</svg>

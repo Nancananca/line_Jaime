@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -1.6 24.95 17.075" width="998" height="683" font-family="Manrope, Arial, sans-serif"><rect x="-1.6" y="-1.6" width="24.95" height="17.075" fill="#fff"/>
+<defs><pattern id="rc" width="0.25" height="0.25" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V.25" stroke="#b9b7ad" stroke-width=".035"/></pattern></defs>
+<rect x="0" y="0" width="21.75" height="6.75" fill="#e6e5de" stroke="#12130f" stroke-width=".05"/>
+
+<text x="10.875" y="3.455" text-anchor="middle" font-size=".24" fill="#55564f">CUBIERTA +3,00</text>
+</svg>
